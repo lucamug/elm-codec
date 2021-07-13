@@ -54,7 +54,7 @@ semaphoreCodec =
         (\red yellow green value ->
             case value of
                 Red i s ->
-                    red i s 
+                    red i s
 
                 Yellow ->
                     yellow
